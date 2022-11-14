@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <a align="center" href="https://github.com/Chaelsy-kim/Capstone_Design" target="_blank">
-      <img width="850" src="https://user-images.githubusercontent.com/51262434/201677642-1f8273d5-15f6-4980-92a4-7fcb51e84475.png"></a>
+      <img width="850" height="200" src="https://user-images.githubusercontent.com/51262434/201677642-1f8273d5-15f6-4980-92a4-7fcb51e84475.png"></a>
   </p>
 
   <div>
