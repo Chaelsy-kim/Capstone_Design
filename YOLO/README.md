@@ -15,4 +15,12 @@
     <br><br>
   </p>
 </div>
-// TODO: 모델별 결과값 적기
+
+* * *
+
+# Test 결과
+## 금속활자
+![image](https://user-images.githubusercontent.com/51262434/201683891-d0c9816e-9b97-4105-9718-c4eededf8220.png)
+12개 중 12개 정답
+## 목판
+
